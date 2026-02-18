@@ -1,7 +1,8 @@
-## Hi there 👋
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
+ 
+![alt text](https://github.com/arwood2/images/AnitaSm.png "Small image of Anita")
+
+Hi there from Anita.
 <!-- -->
 
 - 🔭 I’m currently working on transitioning to retirement.
