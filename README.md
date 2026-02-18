@@ -1,6 +1,6 @@
 
  
-![alt text](https://github.com/arwood2/images/AnitaSm.png "Small image of Anita")
+!["Small image of Anita"](https://github.com/arwood2/AnitaSm.png)
 
 Hi there from Anita.
 <!-- -->
